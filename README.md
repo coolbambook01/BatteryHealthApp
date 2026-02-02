@@ -63,7 +63,3 @@ streamlit run app.py
 1. Fill in your device information in the sidebar
 2. Click the "Predict" button
 3. View your predicted battery health and recommendation
-
-## License
-
-MIT License
