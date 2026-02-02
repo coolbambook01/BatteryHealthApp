@@ -63,3 +63,11 @@ streamlit run app.py
 1. Fill in your device information in the sidebar
 2. Click the "Predict" button
 3. View your predicted battery health and recommendation
+
+## My work
+Project: Battery Replacement Decision Model
+Developed a predictive model to decide whether to replace a phone or its battery using real-world usage and battery data.
+Preprocessed numerical and categorical features using pipelines and experimented with multiple models, including Random Forest and XGBoost.
+Performed hyperparameter tuning with cross-validation, achieving an R² score of 0.965, and analyzed feature importance to interpret the results.
+Demonstrated the model using an interactive prototype, created with the help of AI-assisted Streamlit code.
+
